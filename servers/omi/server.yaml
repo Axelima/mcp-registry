@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/162546372?v=4
 source:
   project: https://github.com/BasedHardware/omi
-  commit: 144a166dda34f8acd505b54f1674b46afc596b8c
+  commit: 9b87ca40e7e4c447c9f1e984b84b25436cf9a96c
   directory: mcp
 config:
   description: Configure the connection to omi-mcp
